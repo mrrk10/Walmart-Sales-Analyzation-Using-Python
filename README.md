@@ -9,6 +9,7 @@ Ensure you have the following installed:
 - Required Python libraries:  
   ```bash
   pip install pandas sqlite3 openpyxl
+  ```
 
   ### **Installing**
   1. Clone the repository:
