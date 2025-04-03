@@ -12,7 +12,9 @@ Ensure you have the following installed:
   ```
 ## Installing
  1. **Clone the Repository**
- 2. **Navigate to the Project Folder**
+    ```sh
+    https://github.com/mrrk10/Walmart-Sales-Analyzation-Using-Python.git
+ 3. **Navigate to the Project Folder**
 ```sh
 cd walmart-sales-analysis
 
