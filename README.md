@@ -10,3 +10,4 @@ Ensure you have the following installed:
 
   ```bash
   pip install pandas sqlite3 openpyxl
+  
