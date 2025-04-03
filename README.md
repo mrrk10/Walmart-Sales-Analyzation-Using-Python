@@ -12,9 +12,7 @@ Ensure you have the following installed:
   ```
 ## Installing
  1. **Clone the Repository**
-```bash    
-  git clone https://github.com/KshitizSee/Individual-Project-1.git
-2. Navigate to the project folder:
-```bash
-  cd walmart-sales-analysis
+ 2. **Navigate to the Project Folder**
+```sh
+cd walmart-sales-analysis
 
