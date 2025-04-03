@@ -7,11 +7,10 @@ This project analyzes Walmart retail sales data from **2012 to 2015** using **Py
 Ensure you have the following installed:  
 - **Python 3.x**  
 - Required Python libraries:  
-
   ```bash
   pip install pandas sqlite3 openpyxl
 
-  ### **Prerequisites**
+  ### **Installing**
   1. Clone the repository:
 ```bash
 https://github.com/mrrk10/Walmart-Sales-Analyzation-Using-Python.git
