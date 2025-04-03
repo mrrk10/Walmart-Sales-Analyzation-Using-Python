@@ -11,10 +11,10 @@ Ensure you have the following installed:
   pip install pandas sqlite3 openpyxl
   ```
 ## Installing
- 1. **Clone the Repository**  
-   ```sh
-   git clone https://github.com/KshitizSee/Individual-Project-1.git
+ 1. **Clone the Repository**
+```bash    
+  git clone https://github.com/KshitizSee/Individual-Project-1.git
 2. Navigate to the project folder:
-```sh
+```bash
   cd walmart-sales-analysis
 
