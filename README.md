@@ -14,10 +14,10 @@ Ensure you have the following installed:
  1. **Clone the Repository**
     ```sh
     https://github.com/mrrk10/Walmart-Sales-Analyzation-Using-Python.git
- 3. **Navigate to the Project Folder**
+ 2. **Navigate to the Project Folder**
 ```sh
 cd walmart-sales-analysis
-3. Ensure the Dataset is in the Directory
+3. **Ensure the Dataset is in the Directory**
 ```sh
 Place the WalmartRetailSales.xlsx file in the project directory
 ## Running the script
