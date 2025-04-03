@@ -27,10 +27,10 @@ Place the WalmartRetailSales.xlsx file in the project directory
   python script.py
   ```
 - The Script will:
-  -Load and process the dataset from an Excel file.
-  -Store the data in an in-memory SQLite database.
-  -Calculate the sales growth rate per state.
-  -Identify the most profitable products in each region and state.
+- Load and process the dataset from an Excel file.
+- Store the data in an in-memory SQLite database.
+- Calculate the sales growth rate per state.
+- Identify the most profitable products in each region and state.
 ## SQL Queries Used
 1. **Sales Growth Rate per State
    -Calculates yearly sales growth per state and determines if sales are decreasing in most states.
