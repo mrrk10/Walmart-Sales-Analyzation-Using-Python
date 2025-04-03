@@ -20,5 +20,6 @@ Ensure you have the following installed:
 3. **Ensure the Dataset is in the Directory**
 ```sh
 Place the WalmartRetailSales.xlsx file in the project directory
+
 ## Running the script
 
